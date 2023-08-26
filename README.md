@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medram&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medram&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medram&theme=dark&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
