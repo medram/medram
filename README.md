@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medram&theme=dark&border_radius=10&mode=daily&card_width=400)](https://git.io/streak-stats)   ![Medram's GitHub stats](https://github-readme-stats.vercel.app/api?username=medram&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medram&theme=dark&border_radius=10&mode=daily&card_width=400)](https://git.io/streak-stats)   ![Medram's GitHub stats](https://github-readme-stats.vercel.app/api?username=medram&show_icons=true&theme=radical&border_radius=10&card_width=400)
 
 
