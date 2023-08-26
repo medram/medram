@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+Long story short, I'm a:
+- Full-Stack Web Developer (Django, Laravel).
+- Python expert Developer.
+- React & Javascript Developer.
+- DevOps (Docker, Linux, Docker Swarm, Docker Compose, Clouds, VPS, Load balancing, security, and more...).
+- Linux System Manager and security Expert.
+
+More info:
+- 🔭 I’m currently working as a Freelancer.
+- 🌱 I’m currently still learning more about AI/ML.
+- 📫 How to reach me: mohammed@ramouchy.com
+- 😄 Fun fact: I like gaming, Linux, and AI/ML.
+  
 <!--
 **medram/medram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medram&show_icons=true&theme=radical)
