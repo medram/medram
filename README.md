@@ -10,7 +10,7 @@ Long story short, I'm a:
 
 More info:
 - 🔭 I’m currently working as a Freelancer.
-- 🌱 I’m currently still learning more about AI/ML.
+- 🌱 I’m currently learning more about AI/ML.
 - 📫 How to reach me: mohammed@ramouchy.com
 - 😄 Fun fact: I like gaming, Linux, and AI/ML.
   
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medram&theme=dark&border_radius=10&mode=daily&card_width=800)](https://git.io/streak-stats)   
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medram&theme=dark&border_radius=10&mode=daily&card_width=818)](https://git.io/streak-stats)   
 
 <a href="https://github.com/medram">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=medram&show_icons=true&theme=radical&border_radius=10&card_width=400" />
