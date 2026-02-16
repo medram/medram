@@ -1,18 +1,19 @@
 ### Hi there 👋
 
 Long story short, I'm a:
-- Full-Stack Web Developer (Django, Laravel).
-- Python expert Developer.
-- React & Javascript Developer.
-- DevOps (Docker, Linux, Docker Swarm, Docker Compose, Clouds, VPS, Load balancing, security, and more...).
+- Senior Full-Stack Software Engineer
+- Tech-Lead / Project Manager
+- Python Expert Developer.
+- React & Typescript Engineer.
+- DevOps (Docker, Linux, Docker Swarm, Docker Compose, Clouds, VPS, Load balancing, CDN, security, and more...).
 - Linux System Manager and security Expert.
 - Intermediate Data Scientist.
 
 More info:
-- 🔭 I’m currently working as a Freelancer.
-- 🌱 I’m currently learning more about AI/ML.
+- 🔭 I’m currently employeed by Dahbi Group company.
+- 🌱 I’m currently learning and integrating AI everywhere.
 - 📫 How to reach me: mohammed@ramouchy.com
-- 😄 Fun fact: I like gaming, Linux, and AI/ML.
+- 😄 Fun fact: I like gaming, Linux, AI and ☕.
   
 <!--
 **medram/medram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
