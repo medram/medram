@@ -3,7 +3,7 @@
 Long story short, I'm a:
 - Senior Full-Stack Software Engineer
 - Tech-Lead / Project Manager
-- Python Expert Developer.
+- Senior Python Developer.
 - React & Typescript Engineer.
 - DevOps (Docker, Linux, Docker Swarm, Docker Compose, Clouds, VPS, Load balancing, CDN, security, and more...).
 - Linux System Manager and security Expert.
